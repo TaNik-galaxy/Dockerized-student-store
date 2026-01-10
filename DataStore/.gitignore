@@ -1,0 +1,22 @@
+# Docker & Jenkins
+Dockerfile*
+Jenkinsfile*
+docker-compose.yml
+
+# CI/CD helpers
+compose/
+helper/
+install.sh
+
+# Runtime
+logs/
+
+# Nested project
+studentstore/
+
+# Maven
+target/
+
+# OS junk
+.DS_Store
+
