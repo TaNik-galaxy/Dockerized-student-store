@@ -1,7 +1,8 @@
 # Docker & Jenkins
-Dockerfile*
-Jenkinsfile*
-docker-compose.yml
+Dockerfile1
+Dockerfile
+JenkinsfileJenkinsfile-2
+
 
 # CI/CD helpers
 compose/
@@ -9,7 +10,6 @@ helper/
 install.sh
 
 # Runtime
-logs/
 
 # Nested project
 studentstore/
